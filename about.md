@@ -28,7 +28,7 @@ through Tom Johnson's widely respected course at
 - 20+ years of technical writing for complex software systems
 - B.Sc. in Computing Science — I think like a developer
 - Bilingual English/Spanish — native proficiency in both
-- Conversational AI training and solutions experience
+- Conversational AI training experience
 - Professional copyediting and proofreading
 - Technical translation across industries
 - Active learner in API documentation and AI writing tools
