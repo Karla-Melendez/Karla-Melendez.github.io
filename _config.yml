@@ -1,0 +1,14 @@
+theme: minima
+title: Karla Melendez
+description: Senior Technical Writer | Conversational AI | Bilingual EN/ES | Copyeditor
+url: "https://Karla-Melendez.github.io"
+author: Karla Melendez
+
+# Navigation
+header_pages:
+  - about.md
+  - services.md
+  - portfolio.md
+  - project.md
+  - blog.md
+  - contact.md
