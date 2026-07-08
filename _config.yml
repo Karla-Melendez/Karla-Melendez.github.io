@@ -6,6 +6,7 @@ author:
   name: Karla Melendez
   email: kemh.to@gmail.com
 
+minima:
   nav_pages:
     - index.md
     - about.md
