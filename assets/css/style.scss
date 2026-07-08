@@ -1,0 +1,45 @@
+---
+---
+
+@import "minima";
+
+// Navy and blue accent — matches your resume
+$navy: #1F4E79;
+$accent: #2E75B6;
+
+// Header background
+.site-header {
+  background-color: $navy;
+  border-top: none;
+}
+
+// Header title and navigation links
+.site-title,
+.site-title:visited,
+.site-nav .page-link {
+  color: #ffffff !important;
+}
+
+// Navigation link hover
+.site-nav .page-link:hover {
+  color: #BDD7EE !important;
+}
+
+// Page and post headings
+h1, h2, h3 {
+  color: $navy;
+}
+
+// Links
+a {
+  color: $accent;
+}
+
+a:hover {
+  color: $navy;
+}
+
+// Footer
+.site-footer {
+  border-top: 3px solid $accent;
+}
