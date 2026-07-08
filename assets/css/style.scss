@@ -1,45 +1,36 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
 @import "minima";
 
-// Navy and blue accent — matches your resume
-$navy: #1F4E79;
-$accent: #2E75B6;
-
-// Header background
 .site-header {
-  background-color: $navy;
+  background-color: #1F4E79;
   border-top: none;
 }
 
-// Header title and navigation links
 .site-title,
 .site-title:visited,
 .site-nav .page-link {
   color: #ffffff !important;
 }
 
-// Navigation link hover
 .site-nav .page-link:hover {
   color: #BDD7EE !important;
 }
 
-// Page and post headings
 h1, h2, h3 {
-  color: $navy;
+  color: #1F4E79;
 }
 
-// Links
 a {
-  color: $accent;
+  color: #2E75B6;
 }
 
 a:hover {
-  color: $navy;
+  color: #1F4E79;
 }
 
-// Footer
 .site-footer {
-  border-top: 3px solid $accent;
+  border-top: 3px solid #2E75B6;
 }
