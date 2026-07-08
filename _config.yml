@@ -1,8 +1,10 @@
 remote_theme: jekyll/minima
 title: Karla Melendez
-description: Bilingual EN/ES · AI · Copyeditor · Translator
-url: "https://Karla-Melendez.github.io"
-author: Senior Technical Writer
+description: Senior Technical Writer · Bilingual EN/ES · AI · Copyeditor · Translator
+url: "https://karla-melendez.github.io"
+author:
+  name: Karla Melendez
+  email: kemh.to@gmail.com
 
 header_pages:
   - index.md
