@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![Karla Melendez](/assets/images/karla-melendez.jpg){: style="float: right; margin: 0 0 20px 30px; width: 200px; border-radius: 8px;"}
+
 I am a bilingual (English/Spanish) Senior Technical Writer based in 
 North York, ON, with a B.Sc. in Computing Science and 20+ years of 
 experience producing clear, user-focused documentation for complex 
