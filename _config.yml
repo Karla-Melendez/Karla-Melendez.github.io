@@ -6,6 +6,7 @@ author: Senior Technical Writer
 
 # Navigation
 header_pages:
+  - index.md
   - about.md
   - services.md
   - portfolio.md
