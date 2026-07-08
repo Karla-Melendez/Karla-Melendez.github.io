@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: page
 title: Welcome
+permalink: /
 ---
 
 I am a bilingual Senior Technical Writer with a B.Sc. in Computing 
