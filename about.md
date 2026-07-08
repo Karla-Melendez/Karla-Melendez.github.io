@@ -25,10 +25,10 @@ through Tom Johnson's widely respected course at
 
 ## What I bring
 
-✍️ 20+ years of technical writing for complex software systems
-🎓 B.Sc. in Computing Science — I think like a developer
-🌐 Bilingual English/Spanish — native proficiency in both
-🤖 Conversational AI training experience
+✍️ 20+ years of technical writing for complex software systems <br />
+🎓 B.Sc. in Computing Science — I think like a developer <br />
+🌐 Bilingual English/Spanish — native proficiency in both <br />
+🤖 Conversational AI training experience <br />
 ✏️ Professional copyediting and proofreading
 
 ## Connect
