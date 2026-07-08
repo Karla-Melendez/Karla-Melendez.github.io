@@ -4,16 +4,22 @@
 }
 
 .site-title,
-.site-title:visited {
-  color: #ffffff;
+.site-title:visited,
+.site-title:hover {
+  color: #ffffff !important;
 }
 
-.site-nav .page-link {
-  color: #ffffff;
+.site-nav .page-link,
+.site-nav .page-link:visited {
+  color: #ffffff !important;
 }
 
 .site-nav .page-link:hover {
-  color: #BDD7EE;
+  color: #BDD7EE !important;
+}
+
+.site-nav .menu-icon > svg path {
+  fill: #ffffff;
 }
 
 h1, h2, h3 {
@@ -30,4 +36,8 @@ a:hover {
 
 .site-footer {
   border-top: 3px solid #2E75B6;
+}
+
+.footer-col-wrapper {
+  color: #555555;
 }
