@@ -28,8 +28,11 @@ ongoing maintenance.
 - UI text, tooltips, and in-app messaging
 
 **Industries I have documented:**
-CCaaS/UCaaS · ERP · Print Management · Manufacturing Process 
-Control · Conversational AI · Telecommunications · Banking
+Contact Center · ERP · Print Management · Manufacturing Process 
+Control · Telecommunications · Banking
+
+**Technologies I have worked with:**
+CCaaS/UCaaS · Conversational AI · Cloud-based communications
 
 **Tools I work with:**
 Oracle Service Cloud · Confluence · Jira · HTML · Swagger · 
