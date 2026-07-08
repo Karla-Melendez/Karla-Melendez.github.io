@@ -15,5 +15,15 @@ header_pages:
   - blog.md
   - contact.md
 
+minima:
+  nav_order:
+    - index.md
+    - about.md
+    - services.md
+    - portfolio.md
+    - project.md
+    - blog.md
+    - contact.md
+
 plugins:
   - jekyll-remote-theme
