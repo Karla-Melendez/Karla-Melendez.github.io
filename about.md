@@ -21,20 +21,18 @@ with experience across academic, legal, business, and technical content.
 I am currently pursuing an AI Technical Writing Certification with 
 Technical Writer HQ, and independently studying API documentation 
 through Tom Johnson's widely respected course at 
-[idratherbewriting.com/learnapidoc](https://idratherbewriting.com/learnapidoc).
+<a href="https://idratherbewriting.com/learnapidoc" target="_blank" rel="noopener noreferrer">idratherbewriting.com/learnapidoc</a>.
 
 ## What I bring
 
-- 20+ years of technical writing for complex software systems
-- B.Sc. in Computing Science — I think like a developer
-- Bilingual English/Spanish — native proficiency in both
-- Conversational AI training experience
-- Professional copyediting and proofreading
-- Technical translation across industries
-- Active learner in API documentation and AI writing tools
+✍️ 20+ years of technical writing for complex software systems
+🎓 B.Sc. in Computing Science — I think like a developer
+🌐 Bilingual English/Spanish — native proficiency in both
+🤖 Conversational AI training experience
+✏️ Professional copyediting and proofreading
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/karlaemelendez) · 
-[GitHub Portfolio](https://github.com/Karla-Melendez/Writing-Samples) · 
-kemh.to@gmail.com
+<a href="https://www.linkedin.com/in/karlaemelendez" target="_blank" rel="noopener noreferrer">LinkedIn</a> · 
+<a href="https://github.com/Karla-Melendez/Writing-Samples" target="_blank" rel="noopener noreferrer">GitHub Portfolio</a> · 
+<a href="mailto:kemh.to@gmail.com">kemh.to@gmail.com</a> 
