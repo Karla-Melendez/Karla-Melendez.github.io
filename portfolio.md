@@ -68,7 +68,7 @@ Getting started guide for a transcription and conversation analytics
 feature. Written for administrators enabling the feature for the 
 first time.
 
-**<a href="https://github.com/Karla-Melendez/Writing-Samples/blob/main/Contact-Center-Omnichannel-Configure-Routing-Flows-Rule-Sets-Flow-Assignments.pdf" 
+**<a href="https://github.com/Karla-Melendez/Writing-Samples/blob/main/Contact-Center-Omnichannel-Configure-Routing-Using-Flows-Rule-Sets-and-Flow-Assignments.pdf"
 target="_blank" rel="noopener noreferrer">Contact Center — 
 Omnichannel: Configure Routing Using Flows, Rule Sets & Flow 
 Assignments</a>**
