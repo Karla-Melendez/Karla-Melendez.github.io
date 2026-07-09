@@ -5,8 +5,9 @@ permalink: /portfolio/
 ---
 
 The samples below represent a cross-section of my technical writing 
-work across different document types, audiences, and software domains. Knowledge base articles are saved 
-versions reflecting my original structure and writing.
+work across different document types, audiences, and software domains. 
+Samples are provided for portfolio purposes with permission from the 
+respective employers.
 
 All samples are available as PDFs via my 
 <a href="https://github.com/Karla-Melendez/Writing-Samples" 
@@ -17,15 +18,27 @@ repository</a>.
 
 ## 📄 Manual Excerpts
 
-These excerpts are drawn from full guides I authored for enterprise 
-software platforms.
+These excerpts are drawn from documentation I authored during my 
+tenure at Avanti Computer Systems (now Avanti, a CAI Company) and 
+ATCO I-Tek (now Wipro), where I served as Technical Writer.
+
+- The Administrator Guide and Integration Guide are from my time 
+  at Avanti, where I documented a Print Management Information System.
+- The User Guide is from my time at ATCO I-Tek, where I documented 
+  customer billing and tracking systems.
 
 **<a href="https://github.com/Karla-Melendez/Writing-Samples/blob/main/Administrator-Guide-eDashboards.pdf" 
 target="_blank" rel="noopener noreferrer">Administrator Guide — 
 eDashboards</a>**
 Excerpt from an administrator guide for a dashboard configuration 
-and management feature for a print management system. 
+and management feature within a print management information system. 
 Written for system administrators.
+
+**<a href="https://github.com/Karla-Melendez/Writing-Samples/blob/main/User-Guide-Accounting-Software.pdf" 
+target="_blank" rel="noopener noreferrer">User Guide — Accounting 
+Software</a>**
+Excerpt from a user guide for a customer billing and tracking system. 
+Written for end users with varying levels of technical proficiency.
 
 **<a href="https://github.com/Karla-Melendez/Writing-Samples/blob/main/Integration-Guide-Print-Management-System.pdf" 
 target="_blank" rel="noopener noreferrer">Integration Guide — Print 
@@ -33,19 +46,15 @@ Management System</a>**
 Excerpt from an integration guide for a print management information 
 system. Written for integration partners and technical audiences.
 
-**<a href="https://github.com/Karla-Melendez/Writing-Samples/blob/main/User-Guide-Accounting-Software.pdf" 
-target="_blank" rel="noopener noreferrer">User Guide — Accounting 
-Software</a>**
-Excerpt from a user guide for an accounting software module. Written 
-for end users with varying levels of technical proficiency.
-
 ---
 
 ## 📚 Knowledge Base Articles
 
-These articles were authored for a cloud-based CCaaS/UCaaS platform 
-and saved as PDFs to preserve my original structure and writing. 
-Content reflects the state of the articles at the time of saving.
+These articles were authored during my tenure at Intermedia 
+Intelligent Communications, where I served as Technical Writer 
+for a CCaaS/UCaaS platform. Articles are saved versions of 
+publicly accessible content, reflecting my original structure 
+and writing.
 
 **<a href="https://github.com/Karla-Melendez/Writing-Samples/blob/main/Contact-Center-Agent-and-Supervisor-Experience-Interaction-Workflows-Voice.pdf" 
 target="_blank" rel="noopener noreferrer">Contact Center — Agent & 
@@ -68,7 +77,7 @@ Getting started guide for a transcription and conversation analytics
 feature. Written for administrators enabling the feature for the 
 first time.
 
-**<a href="https://github.com/Karla-Melendez/Writing-Samples/blob/main/Contact-Center-Omnichannel-Configure-Routing-Using-Flows-Rule-Sets-and-Flow-Assignments.pdf"
+**<a href="https://github.com/Karla-Melendez/Writing-Samples/blob/main/Contact-Center-Omnichannel-Configure-Routing-Using-Flows-Rule-Sets-and-Flow-Assignments.pdf" 
 target="_blank" rel="noopener noreferrer">Contact Center — 
 Omnichannel: Configure Routing Using Flows, Rule Sets & Flow 
 Assignments</a>**
@@ -88,8 +97,7 @@ intent.
 target="_blank" rel="noopener noreferrer">Unite — Teams Contact 
 Center: UC/CC Real-Time Dashboards</a>**
 User guide for supervisors on using the Real-Time Dashboards feature 
-of the integrated Unified Communications and Contact Center system. 
-Written for supervisor roles managing live contact center and UC activity.
+of the integrated Unified Communications and Contact Center system.
 
 ---
 
@@ -119,5 +127,5 @@ required in Bird before completing the WhatsApp integration.
 
 ---
 
-*Samples are provided for portfolio purposes. All proprietary and 
-identifying information has been removed or anonymized.*
+*Samples are provided for portfolio purposes with permission from 
+the respective employers.*
