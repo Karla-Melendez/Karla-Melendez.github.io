@@ -24,20 +24,20 @@ software platforms.
 target="_blank" rel="noopener noreferrer">Administrator Guide — 
 eDashboards</a>**
 Excerpt from an administrator guide for a dashboard configuration 
-and management feature within a cloud-based contact center platform. 
+and management feature for a print management system. 
 Written for system administrators.
-
-**<a href="https://github.com/Karla-Melendez/Writing-Samples/blob/main/User-Guide-Accounting-Software.pdf" 
-target="_blank" rel="noopener noreferrer">User Guide — Accounting 
-Software</a>**
-Excerpt from a user guide for an accounting software module. Written 
-for end users with varying levels of technical proficiency.
 
 **<a href="https://github.com/Karla-Melendez/Writing-Samples/blob/main/Integration-Guide-Print-Management-System.pdf" 
 target="_blank" rel="noopener noreferrer">Integration Guide — Print 
 Management System</a>**
 Excerpt from an integration guide for a print management information 
 system. Written for integration partners and technical audiences.
+
+**<a href="https://github.com/Karla-Melendez/Writing-Samples/blob/main/User-Guide-Accounting-Software.pdf" 
+target="_blank" rel="noopener noreferrer">User Guide — Accounting 
+Software</a>**
+Excerpt from a user guide for an accounting software module. Written 
+for end users with varying levels of technical proficiency.
 
 ---
 
@@ -88,7 +88,8 @@ intent.
 target="_blank" rel="noopener noreferrer">Unite — Teams Contact 
 Center: UC/CC Real-Time Dashboards</a>**
 User guide for supervisors on using the Real-Time Dashboards feature 
-of the integrated Unified Communications and Contact Center system.
+of the integrated Unified Communications and Contact Center system. 
+Written for supervisor roles managing live contact center and UC activity.
 
 ---
 
