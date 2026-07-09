@@ -1,2 +1,2 @@
 # Karla-Melendez.github.io
-A repository for my personal GitHub Pages
+My personal site for showcasing my professional skills.
