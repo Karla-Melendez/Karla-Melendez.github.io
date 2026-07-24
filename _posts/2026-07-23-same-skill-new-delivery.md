@@ -27,4 +27,4 @@ the relevant content to the humans requesting the information they need to solve
 
 And yet, regardless of the delivery method, the skill set required to be an effective tech writer remains the same. 
 Content must be written clearly, concisely, objectively (i.e., no marketing-speak), and with an eye to specific 
-user personas—novice, intermediate, advanced. I've restructured KB articles this way for real products. Happy to walk through a specific example for the curious.
+user personas—novice, intermediate, advanced.
