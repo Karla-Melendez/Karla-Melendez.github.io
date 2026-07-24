@@ -19,3 +19,4 @@ minima:
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
