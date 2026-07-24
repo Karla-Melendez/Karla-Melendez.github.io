@@ -20,7 +20,7 @@ act as a “page one”). It’s been my experience that busy end-users will not
 paginate through articles. Their online search might also lead them to the middle of a set of articles, and if the article 
 itself doesn’t have a clear navigation method, the information on the page will be incomplete, resulting in user frustration. I've restructured KB articles from a platform similar in structure to a bound book (organized in clear sections, easy to see at a glance which topics belonged together) to a platform where the articles became "loose", like ripping the pages off a book and tossing them in the wind, and then fixed it two ways. I'd be happy to walk through the process, for the curious.
 
-With the advent of LLMs and AIs, we’re witnessing a new shift: online knowledge base articles must not only be self-contained, 
+With the advent of LLMs and AIs, there's a new shift: online knowledge base articles must not only be self-contained, 
 but they must also be searchable by both human and bot audiences. What this means for tech writers is that the content 
 they write should not only include SEO keywords, but should also be parsable by LLMs and chatbots so they can serve up 
 the relevant content to the humans requesting the information they need to solve their particular problem. In practice, this means clear hierarchies, self-contained chunks a model can retrieve without missing context, and front-loading the direct answer before the supporting detail.
