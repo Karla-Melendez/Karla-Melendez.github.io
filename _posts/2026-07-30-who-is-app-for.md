@@ -20,9 +20,9 @@ information such as the size of tank they’d typically own would be useful.
 
 I came up with three types:
 
-- Novice: new to the aquarist hobby, may have kept fish before, is only now getting into the aquascaping art.
-- Intermediate: has planted aquariums before, knows what’s involved in the upkeep of aquatic plants, would like to learn more about how to make the aquarium look polished.
-- Advanced: at the competition level.
+- **Novice:** new to the aquarist hobby, may have kept fish before, is only now getting into the aquascaping art.
+- **Intermediate:** has planted aquariums before, knows what’s involved in the upkeep of aquatic plants, would like to learn more about how to make the aquarium look polished.
+- **Advanced:** at the competition level.
 
 And here's a quick introduction to my three targeted personas.
 
