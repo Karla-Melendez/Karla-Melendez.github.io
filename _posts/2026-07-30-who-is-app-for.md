@@ -39,7 +39,7 @@ What ties the three together, more than tank size or experience, is what each on
 wasted effort. Ari fears wasted time. Designing well for all three means designing against three different fears, not just three 
 different skill levels.
 
-If you want the full breakdown–design goals, detailed profiles, what success looks like for each–I've documented all three 
+For the full breakdown—design goals, detailed profiles, what success looks like for each—I've documented all three 
 personas in more depth in the 
 <a href="https://github.com/Karla-Melendez/Aquascape-Vision/blob/main/Vision/User-Personas.md" target="_blank" rel="noopener noreferrer">User Personas</a> 
-file in the Aquascape Vision repo.
+file of my Aquascape Vision repo.
