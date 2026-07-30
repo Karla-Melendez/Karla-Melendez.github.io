@@ -42,4 +42,4 @@ different skill levels.
 For the full breakdown—design goals, detailed profiles, what success looks like for each—I've documented all three 
 personas in more depth in the 
 <a href="https://github.com/Karla-Melendez/Aquascape-Vision/blob/main/Vision/User-Personas.md" target="_blank" rel="noopener noreferrer">User Personas</a> 
-file of my Aquascape Vision repo.
+file found in my Aquascape Vision repo.
