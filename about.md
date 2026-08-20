@@ -4,28 +4,36 @@ title: About
 permalink: /about/
 ---
 
-![Karla Melendez](/assets/images/karla-melendez.jpg){: style="float: left; margin: 0 30px 20px 0; width: 280px; border-radius: 8px;"}
+<div style="display: flex; gap: 40px; align-items: flex-start; margin-bottom: 40px;">
+  <div style="flex: 0 0 38%; max-width: 38%;">
+    <img src="/assets/images/karla-melendez.jpg" 
+    alt="Karla Melendez" 
+    style="width: 100%; border-radius: 8px;">
+  </div>
+  <div style="flex: 1;">
+    <p>I am a bilingual (English/Spanish) Senior Technical Writer 
+    based in North York, ON, with a B.Sc. in Computing Science and 
+    20+ years of experience producing clear, user-focused 
+    documentation for complex software systems.</p>
 
-<div style="clear: both;"></div>
+    <p>My career spans CCaaS/UCaaS platforms, ERP systems, print 
+    management, manufacturing process control, and Conversational 
+    AI — giving me both the technical depth and the domain range 
+    to document almost anything accurately and clearly.</p>
 
-I am a bilingual (English/Spanish) Senior Technical Writer based in 
-North York, ON, with a B.Sc. in Computing Science and 20+ years of 
-experience producing clear, user-focused documentation for complex 
-software systems.
+    <p>Beyond technical writing, I bring additional expertise as a 
+    professional copyeditor, proofreader, and English ↔ Spanish 
+    translator, with experience across academic, legal, business, 
+    and technical content.</p>
 
-My career spans CCaaS/UCaaS platforms, ERP systems, print management, 
-manufacturing process control, and Conversational AI — giving me both 
-the technical depth and the domain range to document almost anything 
-accurately and clearly.
-
-Beyond technical writing, I bring additional expertise as a 
-professional copyeditor, proofreader, and English ↔ Spanish translator, 
-with experience across academic, legal, business, and technical content.
-
-I am currently pursuing an AI Technical Writing Certification with 
-Technical Writer HQ, and independently studying API documentation 
-through Tom Johnson's widely respected course at 
-<a href="https://idratherbewriting.com/learnapidoc" target="_blank" rel="noopener noreferrer">idratherbewriting.com/learnapidoc</a>.
+    <p>I am currently pursuing an AI Technical Writing Certification 
+    with Technical Writer HQ, and independently studying API 
+    documentation through Tom Johnson's widely respected course at 
+    <a href="https://idratherbewriting.com/learnapidoc" 
+    target="_blank" rel="noopener noreferrer">
+    idratherbewriting.com/learnapidoc</a>.</p>
+  </div>
+</div>
 
 ## What I bring
 
