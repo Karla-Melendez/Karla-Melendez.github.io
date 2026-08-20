@@ -1,18 +1,16 @@
 ---
 layout: page
-title: " "
+title: About
 permalink: /about/
 ---
 
 <div style="display: flex; gap: 50px; align-items: flex-start; margin-bottom: 40px;">
-  <div style="flex: 0 0 40%; max-width: 40%;">
+  <div style="flex: 0 0 45%; max-width: 45%;">
     <img src="/assets/images/karla-melendez.jpg" 
     alt="Karla Melendez" 
     style="width: 100%; border-radius: 35px;">
   </div>
   <div style="flex: 1;">
-    <h1 style="color: #1F4E79; margin-top: 0;">About Karla</h1>
-
     <p>I am a bilingual (English/Spanish) Senior Technical Writer 
     based in North York, ON, with a B.Sc. in Computing Science and 
     20+ years of experience producing clear, user-focused 
