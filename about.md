@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div style="display: flex; gap: 40px; align-items: flex-start; margin-bottom: 40px;">
-  <div style="flex: 0 0 38%; max-width: 38%;">
+  <div style="flex: 0 0 50%; max-width: 50%;">
     <img src="/assets/images/karla-melendez.jpg" 
     alt="Karla Melendez" 
     style="width: 100%; border-radius: 8px;">
