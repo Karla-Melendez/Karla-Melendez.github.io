@@ -41,4 +41,5 @@ accurately, and accessibly.
 ---
 
 [View my portfolio](./portfolio) | [My services](./services) | 
-[Read the blog](./blog) | [Contact me](./contact)
+[Testimonials](./testimonials) | [Read the blog](./blog) | 
+[Contact me](./contact)
