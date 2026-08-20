@@ -91,8 +91,11 @@ remote work, and project-based arrangements.
 **My rate:** Available upon request. I am happy to discuss 
 project scope and provide a quote tailored to your needs.
 
+Contract services are offered through 
+**KEMH Technical Writing, Inc.**
+
 **To get started:**
-<a href="mailto:kemh.to@gmail.com">kemh.to@gmail.com</a> · 
+<a href="mailto:kemh.tech.writing@gmail.com">kemh.tech.writing@gmail.com</a> · 
 <a href="https://www.linkedin.com/in/karlaemelendez" 
 target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
