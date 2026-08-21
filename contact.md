@@ -56,9 +56,3 @@ and I will be happy to share it.
 ## ⏱️ Response Time
 
 I typically respond within one business day.
-
----
-
-## ⏱️ Response Time
-
-I typically respond within one business day.
